@@ -1,3 +1,3 @@
 # Meme-generator
-Live preview [GitHub Pages](https://businesspepega.github.io/Meme-generator/)
+[Live preview ](https://businesspepega.github.io/Meme-generator/)
 
